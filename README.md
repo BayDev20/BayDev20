@@ -9,7 +9,7 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 :zap: When not coding, I challenge myself with algorithmic puzzles on GeeksforGeeks and stay updated with the latest tech trends through extensive reading.
 
-:mailbox: Let's connect! [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/bayareadev/])
+:mailbox: Let's connect! [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bayareadev/)
 
 <!--
 **BayDev20/BayDev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
