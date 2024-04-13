@@ -1,6 +1,6 @@
 ### Hi there, I'm Cody 👋
 
-:man_technologist: About Me:
+:man_technologist:
 I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in San Francisco. 
 Transitioning from a 911 responder to a tech enthusiast, I have a unique perspective that enhances my development skills for both the front and back ends.
 
