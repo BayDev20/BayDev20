@@ -33,6 +33,7 @@ Transitioning from a 911 responder to a tech enthusiast, I have a unique perspec
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BayDev20)](https://github.com/anuraghazra/github-readme-stats)
 
